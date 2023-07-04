@@ -12,4 +12,9 @@ Adicional a lo mencionado se tiene claro que para la automatización utilizando 
 Page Object Model (POM). este ultimo no se implemento por temas de tiempo. ya que se invirtio bastante en la web inicial sin obtener los 
 resultados esperados.
 
+
+Para la ejecucion de las pruebas se puede ejecutar el comando en consola:
+todas las pruebas>>>>(npx playwright test)
+pruebas Dxhotels>>>>>(npx palywright test testdx)
+pruebas saucedemo>>>>(npx playwright test sauce)
 Cordial saludo, cualquier duda con gusto sera resuelta.
